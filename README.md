@@ -1,2 +1,2 @@
 # springboot
-demo project for springbok
+demo project for springboot
